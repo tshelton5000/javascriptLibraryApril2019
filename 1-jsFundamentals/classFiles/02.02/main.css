@@ -1,0 +1,22 @@
+.bueno{
+  font-family: 'Dosis', sans-serif;
+  color: #7FC0FF;
+}
+
+.mal{
+  font-family: 'Economica', sans-serif;
+  color: #9D9D9D;
+}
+
+.list{
+  /* display: flex;
+  flex-wrap: wrap; */
+}
+
+.bueno-li{
+  color: #383B3F;
+}
+
+.mal-li{
+  color: #6B7F92;
+}
